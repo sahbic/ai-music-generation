@@ -1,10 +1,6 @@
-# Generating Sound with Neural Networks
+# Music Generation with AI
 
-## 1. Autoencoder
-
-    - This is an implementation of an Autoencoder for sound generation from the [Sound of AI](https://www.youtube.com/watch?v=SF1uAtU5-BU&list=PL-wATfeyAMNpEyENTc-tVH5tfLGKtSWPp&index=5) channel
-
-## 2. MiniBach
+## 1. MiniBach
 
 ### Architecture
 feedforward neural network architecture
@@ -16,6 +12,10 @@ choose an arbitrary melody and feedforward it into the architecture in order to 
 Briot, Jean-Pierre, Gaëtan Hadjeres, and François Pachet. 2017. “Deep Learning Techniques for Music Generation - A Survey.” CoRR abs/1709.01620. http://arxiv.org/abs/1709.01620.
 
 Implementation by [napulen/MiniBach](https://github.com/napulen/MiniBach)
+
+## 2. Autoencoder
+
+This is an implementation of an Autoencoder for sound generation from the [Sound of AI](https://www.youtube.com/watch?v=SF1uAtU5-BU&list=PL-wATfeyAMNpEyENTc-tVH5tfLGKtSWPp&index=5) channel
 
 ## Troubleshooting
 
