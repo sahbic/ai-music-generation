@@ -3,3 +3,12 @@
 __pycache__
 model
 *.png
+
+# environment
+venv
+
+# data
+data
+
+# output
+output

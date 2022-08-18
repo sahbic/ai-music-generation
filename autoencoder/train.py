@@ -1,5 +1,5 @@
 from tensorflow.keras.datasets import mnist
-from autoencoder import Autoencoder
+from autoencoder.autoencoder import Autoencoder
 
 LEARNING_RATE = 0.0005
 BATCH_SIZE = 32
